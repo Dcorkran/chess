@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-box{
+  height: 3em;
+  width: 3em;
+  background-color: white;
+}
+
+.black-box{
+  height: 3em;
+  width: 3em;
+  background-color: black;
+}
